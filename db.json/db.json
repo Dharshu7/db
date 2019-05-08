@@ -1,0 +1,33 @@
+{
+    "object": [
+ {
+    "userId": 1,
+    "id": "0001",
+    "name": "Aravind",
+    "designation": "Intern"
+  },
+  {
+    "userId": 2,
+    "id": "0002",
+    "name": "SriRam",
+    "designation": "Employee"
+  },
+  {
+    "userId": 3,
+    "id": "0003",
+    "name": "Bala",
+    "designation": "Intern"
+  },
+  {
+    "userId": 4,
+    "id": "0004",
+    "name": "Dharshan",
+    "designation": "Intern"
+  },
+  {
+    "userId": 5,
+    "id": "0005",
+    "name": "Vinoth",
+    "designation": "Employee"
+  }]
+}
